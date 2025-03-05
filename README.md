@@ -36,12 +36,6 @@
 
 ---
 
-### 📈 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkshayaSekar&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
----
 
 ### 🎯 **Let's Connect!**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/akshaya-sekar-54302967)  
