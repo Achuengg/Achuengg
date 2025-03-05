@@ -32,15 +32,15 @@
 |---------------|-------------|---------|
 | **📡 Non-Invasive Glucometer** | IoT-based painless glucose monitoring using ML & Flask | [Repo](https://github.com/Achuengg/Non-invasive-Glucometer.git) |
 | **⚙️ SmartPlant Instrumentation Automation** | Reduced 30% man-hours by automating database operations using Python | [Repo](https://github.com/Achuengg/Smart-Plant-Nursery-Ambience-Maintenance--Tiva-TM4C123GH6PM.git) |
-| **📊 Data Analysis & SQL Portfolio** | EDA & SQL queries on real-world datasets with Tableau dashboards | [Repo](your-github-repo-link) |
+| **📊 Data Analysis & SQL Portfolio** | EDA & SQL queries on real-world datasets with Tableau dashboards | [Repo](https://github.com/Achuengg?tab=repositories) |
 
 ---
 
 
 ### 🎯 **Let's Connect!**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/akshaya-sekar-54302967)  
-- 📊 [Tableau Dashboards](https://public.tableau.com/app/profile/akshaya.sekar/viz)  
-- 🌎 [GitHub Portfolio](your-github-portfolio-repo-link)  
+- 📊 [Tableau Dashboards]([https://public.tableau.com/app/profile/akshaya.sekar/viz](https://public.tableau.com/app/profile/akshaya.sekar/vizzes))  
+- 🌎 [GitHub Portfolio](https://github.com/Achuengg?tab=repositories)  
 
 ---
 
