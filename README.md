@@ -39,7 +39,7 @@
 
 ### 🎯 **Let's Connect!**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/akshaya-sekar-54302967)  
-- 📊 [Tableau Dashboards]([https://public.tableau.com/app/profile/akshaya.sekar/viz](https://public.tableau.com/app/profile/akshaya.sekar/vizzes))  
+- 📊 [Tableau Dashboards](https://public.tableau.com/app/profile/akshaya.sekar/vizzes)
 - 🌎 [GitHub Portfolio](https://github.com/Achuengg?tab=repositories)  
 
 ---
