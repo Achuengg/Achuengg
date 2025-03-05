@@ -30,7 +30,7 @@
 ### 📂 **My Top Projects**
 | 🔍 Project Name | 🚀 Description | 🔗 Link |
 |---------------|-------------|---------|
-| **📡 Non-Invasive Glucometer** | IoT-based painless glucose monitoring using ML & Flask | [Repo](your-github-repo-link) |
+| **📡 Non-Invasive Glucometer** | IoT-based painless glucose monitoring using ML & Flask | [Repo](gh repo clone Achuengg/Non-invasive-Glucometer) |
 | **⚙️ SmartPlant Instrumentation Automation** | Reduced 30% man-hours by automating database operations using Python | [Repo](your-github-repo-link) |
 | **📊 Data Analysis & SQL Portfolio** | EDA & SQL queries on real-world datasets with Tableau dashboards | [Repo](your-github-repo-link) |
 
